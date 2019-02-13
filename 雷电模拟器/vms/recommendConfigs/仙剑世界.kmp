@@ -1,0 +1,138 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 74,
+                "curve": [
+                    {
+                        "x": 8945,
+                        "y": 8208,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8945,
+                        "y": 8208,
+                        "timing": 85
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 75,
+                "curve": [
+                    {
+                        "x": 7969,
+                        "y": 8875,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7969,
+                        "y": 8875,
+                        "timing": 106
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 76,
+                "curve": [
+                    {
+                        "x": 7992,
+                        "y": 7611,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7992,
+                        "y": 7611,
+                        "timing": 103
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 73,
+                "curve": [
+                    {
+                        "x": 8609,
+                        "y": 6500,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8609,
+                        "y": 6500,
+                        "timing": 126
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 79,
+                "curve": [
+                    {
+                        "x": 9297,
+                        "y": 5861,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9297,
+                        "y": 5861,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardDrag",
+            "data": {
+                "origin": {
+                    "x": 7148,
+                    "y": 3153
+                },
+                "sensitivity": 5,
+                "leftKey": 37,
+                "upKey": 38,
+                "rightKey": 39,
+                "downKey": 40,
+                "description": ""
+            }
+        }
+    ],
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseRadius": 1875,
+        "mouseScrollType": 0,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": ""
+    },
+    "configInfo": {
+        "uniqueName": "仙剑世界",
+        "packageNameType": 0,
+        "packageNamePattern": "com.wali.jianxiashijie3D.kaopu.guopan",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    }
+}

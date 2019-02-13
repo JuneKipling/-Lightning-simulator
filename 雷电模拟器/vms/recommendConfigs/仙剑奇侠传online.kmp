@@ -1,0 +1,190 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 32,
+                "curve": [
+                    {
+                        "x": 9125,
+                        "y": 8306,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9125,
+                        "y": 8306,
+                        "timing": 143
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 81,
+                "curve": [
+                    {
+                        "x": 8148,
+                        "y": 9111,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8148,
+                        "y": 9111,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 87,
+                "curve": [
+                    {
+                        "x": 8180,
+                        "y": 7736,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8180,
+                        "y": 7736,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 69,
+                "curve": [
+                    {
+                        "x": 8766,
+                        "y": 6639,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8766,
+                        "y": 6639,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 82,
+                "curve": [
+                    {
+                        "x": 9516,
+                        "y": 6556,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9523,
+                        "y": 6556,
+                        "timing": 37
+                    },
+                    {
+                        "x": 9531,
+                        "y": 6556,
+                        "timing": 55
+                    },
+                    {
+                        "x": 9531,
+                        "y": 6556,
+                        "timing": 152
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 9,
+                "curve": [
+                    {
+                        "x": 8938,
+                        "y": 5264,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8938,
+                        "y": 5264,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 90,
+                "curve": [
+                    {
+                        "x": 6850,
+                        "y": 9491,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6850,
+                        "y": 9491,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 88,
+                "curve": [
+                    {
+                        "x": 9674,
+                        "y": 5200,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9674,
+                        "y": 5200,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        }
+    ],
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseRadius": 1875,
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": ""
+    },
+    "configInfo": {
+        "uniqueName": "仙剑奇侠传online",
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.tmgp.palol",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    }
+}

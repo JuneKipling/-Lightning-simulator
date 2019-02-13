@@ -1,0 +1,23 @@
+{
+    "configInfo": {
+        "uniqueName": "倩女幽魂",
+        "packageNameType": 0,
+        "packageNamePattern": "com.netease.l10.wdj.guopan",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "joystickConfig": {
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        }
+    }
+}

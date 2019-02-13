@@ -1,0 +1,23 @@
+{
+    "configInfo": {
+        "uniqueName": "仙剑奇侠传online",
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.tmgp.palol",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "joystickConfig": {
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 75,
+                "curve": [
+                    {
+                        "x": 7573,
+                        "y": 9082,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7573,
+                        "y": 9082,
+                        "timing": 118
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 76,
+                "curve": [
+                    {
+                        "x": 7661,
+                        "y": 7317,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7661,
+                        "y": 7317,
+                        "timing": 112
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 74,
+                "curve": [
+                    {
+                        "x": 8774,
+                        "y": 8321,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8774,
+                        "y": 8321,
+                        "timing": 81
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 73,
+                "curve": [
+                    {
+                        "x": 8298,
+                        "y": 6055,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8298,
+                        "y": 6055,
+                        "timing": 95
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 32,
+                "curve": [
+                    {
+                        "x": 9395,
+                        "y": 5983,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9395,
+                        "y": 5997,
+                        "timing": 63
+                    },
+                    {
+                        "x": 9395,
+                        "y": 5997,
+                        "timing": 150
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardDrag",
+            "data": {
+                "origin": {
+                    "x": 7065,
+                    "y": 2941
+                },
+                "sensitivity": 8,
+                "leftKey": 37,
+                "upKey": 38,
+                "rightKey": 39,
+                "downKey": 40,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 80,
+                "curve": [
+                    {
+                        "x": 9379,
+                        "y": 4261,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9379,
+                        "y": 4261,
+                        "timing": 87
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1558,
+                    "y": 7618
+                },
+                "radius": 1033,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 82,
+                "curve": [
+                    {
+                        "x": 6699,
+                        "y": 9010,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6699,
+                        "y": 9010,
+                        "timing": 100
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "curve": [
+                    {
+                        "x": 9605,
+                        "y": 168,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9605,
+                        "y": 168,
+                        "timing": 64
+                    }
+                ],
+                "description": ""
+            }
+        }
+    ],
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseRadius": 1874,
+        "mouseScrollType": 0,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": ""
+    },
+    "configInfo": {
+        "uniqueName": "九剑魔龙传",
+        "packageNameType": 0,
+        "packageNamePattern": "com.YouYiFang.NewGame.guopan",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    }
+}

@@ -1,0 +1,547 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "curve": [
+                    {
+                        "x": 7169,
+                        "y": 7911,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7169,
+                        "y": 7911,
+                        "timing": 104
+                    }
+                ],
+                "description": "加技能1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "curve": [
+                    {
+                        "x": 7750,
+                        "y": 6089,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7750,
+                        "y": 6089,
+                        "timing": 128
+                    }
+                ],
+                "description": "加技能2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "curve": [
+                    {
+                        "x": 8792,
+                        "y": 5011,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8800,
+                        "y": 5011,
+                        "timing": 60
+                    },
+                    {
+                        "x": 8800,
+                        "y": 5011,
+                        "timing": 143
+                    }
+                ],
+                "description": "加技能3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 66,
+                "curve": [
+                    {
+                        "x": 5131,
+                        "y": 9089,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5131,
+                        "y": 9089,
+                        "timing": 93
+                    }
+                ],
+                "description": "回城",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 9,
+                "origin": {
+                    "x": 4981,
+                    "y": 389
+                },
+                "macros": "size 1600 900\rondown\rtouch 880 25\ronup\rtouch 880 25\r\r",
+                "description": "查看战绩表/取消施法",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1191,
+                    "y": 7894
+                },
+                "radius": 803,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": "行走",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 13,
+                "origin": {
+                    "x": 9600,
+                    "y": 3667
+                },
+                "macros": "size 1600 900\rtouch 1555 329\rwait 300\rtouch 1526 605\r",
+                "description": "一键聊天",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 2,
+                "origin": {
+                    "x": 9556,
+                    "y": 9478
+                },
+                "macros": "size 1600 900\rtouch 1465 771 80\r",
+                "description": "普通攻击",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7669,
+                    "y": 8789
+                },
+                "radius": 945,
+                "indicatorRadius": 682,
+                "description": "技能1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 82,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 9281,
+                    "y": 5889
+                },
+                "radius": 945,
+                "indicatorRadius": 682,
+                "description": "技能3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 32,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 6581,
+                    "y": 8711
+                },
+                "radius": 945,
+                "indicatorRadius": 823,
+                "description": "召唤师技能",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 70,
+                "curve": [
+                    {
+                        "x": 5938,
+                        "y": 9133,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5938,
+                        "y": 9133,
+                        "timing": 128
+                    }
+                ],
+                "description": "治疗",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 69,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 8200,
+                    "y": 6878
+                },
+                "radius": 945,
+                "indicatorRadius": 682,
+                "description": "技能2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 192,
+                "origin": {
+                    "x": 9294,
+                    "y": 400
+                },
+                "macros": "size 1600 900\rondown\rtouch 1555 39\ronup\rtouch 1555 39",
+                "description": "商店",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardWidget",
+            "data": {
+                "key": 136,
+                "center": {
+                    "x": 5456,
+                    "y": 5944
+                },
+                "size": {
+                    "x": 1733,
+                    "y": 694
+                },
+                "simpleText": "按下鼠标滚轮或Tab键取消技能",
+                "resourceFile": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 67,
+                "origin": {
+                    "x": 4975,
+                    "y": 2411
+                },
+                "macros": "type=angle",
+                "description": "移动视野",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 20,
+                "origin": {
+                    "x": 2000,
+                    "y": 1567
+                },
+                "macros": "type=history-map",
+                "description": "一键切换小地图（智能）",
+                "moreDescription": "快速反复切换视野：<n>1. 自动记住上次查看位置，一键快速回看<n>2. 按住Tab的同时，移动鼠标可以滑动视野",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": -125,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 52,
+                "curve": [
+                    {
+                        "x": 9288,
+                        "y": 1511,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9288,
+                        "y": 1511,
+                        "timing": 96
+                    }
+                ],
+                "description": "快速购买1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 53,
+                "curve": [
+                    {
+                        "x": 9306,
+                        "y": 2689,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9306,
+                        "y": 2689,
+                        "timing": 80
+                    }
+                ],
+                "description": "快速购买2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 54,
+                "curve": [
+                    {
+                        "x": 9813,
+                        "y": 1256,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9813,
+                        "y": 1256,
+                        "timing": 104
+                    }
+                ],
+                "description": "进攻",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 55,
+                "curve": [
+                    {
+                        "x": 9775,
+                        "y": 1956,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9763,
+                        "y": 1978,
+                        "timing": 80
+                    },
+                    {
+                        "x": 9763,
+                        "y": 1978,
+                        "timing": 81
+                    }
+                ],
+                "description": "撤退",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 56,
+                "curve": [
+                    {
+                        "x": 9813,
+                        "y": 2800,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9813,
+                        "y": 2800,
+                        "timing": 96
+                    }
+                ],
+                "description": "集合",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 18,
+                "curve": [
+                    {
+                        "x": 281,
+                        "y": 3756,
+                        "timing": 0
+                    },
+                    {
+                        "x": 281,
+                        "y": 3756,
+                        "timing": 104
+                    }
+                ],
+                "description": "放大地图",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        }
+    ],
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 8400,
+            "y": 1878
+        },
+        "cancelKey": 2,
+        "cursor": "lolCursor"
+    },
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.mobile.legends",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 2
+    }
+}

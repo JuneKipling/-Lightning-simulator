@@ -1,0 +1,10 @@
+ {
+    "noticeInfo": {
+        "packageNameType": 1,
+        "packageNamePattern": "com.*.cgamex",
+        "noticeDuration": 15000,
+        "noticeText": "<font color=\"#ee4000\">【公告】</font>BT游戏每周都有超级福利！最强返利，豪华礼包都在这里！<font color=\"#ff9215\">了解详情>></font>",
+        "hostUri": "http://www.ldmnq.com/bbs/thread-29491-1-1.html",
+        "androidUri": ""
+    }
+}

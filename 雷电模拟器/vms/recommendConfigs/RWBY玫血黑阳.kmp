@@ -1,0 +1,274 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1519,
+                    "y": 7427
+                },
+                "radius": 773,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": "行走",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 75,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8847,
+                        "y": 8626,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8847,
+                        "y": 8626,
+                        "timing": 71
+                    }
+                ],
+                "extraData": "",
+                "description": "攻击",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 76,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9437,
+                        "y": 7113,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9437,
+                        "y": 7113,
+                        "timing": 104
+                    }
+                ],
+                "extraData": "",
+                "description": "不知道是啥",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 74,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7433,
+                        "y": 8731,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7433,
+                        "y": 8731,
+                        "timing": 72
+                    }
+                ],
+                "extraData": "",
+                "description": "闪避",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 73,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8422,
+                        "y": 6182,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8422,
+                        "y": 6182,
+                        "timing": 71
+                    }
+                ],
+                "extraData": "",
+                "description": "大招",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 85,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7747,
+                        "y": 7357,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7747,
+                        "y": 7357,
+                        "timing": 136
+                    }
+                ],
+                "extraData": "",
+                "description": "弱点攻击",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9568,
+                        "y": 431,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9561,
+                        "y": 431,
+                        "timing": 56
+                    },
+                    {
+                        "x": 9561,
+                        "y": 431,
+                        "timing": 56
+                    }
+                ],
+                "extraData": "",
+                "description": "跳过",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6516,
+                        "y": 8813,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6516,
+                        "y": 8813,
+                        "timing": 50
+                    }
+                ],
+                "extraData": "",
+                "description": "药水",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6765,
+                        "y": 7113,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6765,
+                        "y": 7113,
+                        "timing": 58
+                    }
+                ],
+                "extraData": "",
+                "description": "道具1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.tmgp.rwby",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1600,
+            "height": 900
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

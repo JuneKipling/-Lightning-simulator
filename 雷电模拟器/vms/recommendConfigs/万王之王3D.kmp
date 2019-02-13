@@ -1,0 +1,693 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1429,
+                    "y": 8308
+                },
+                "radius": 772,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": "行走",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7947,
+                        "y": 9468,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7947,
+                        "y": 9468,
+                        "timing": 64
+                    }
+                ],
+                "extraData": "",
+                "description": "技能1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8045,
+                        "y": 8274,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8039,
+                        "y": 8274,
+                        "timing": 56
+                    },
+                    {
+                        "x": 8039,
+                        "y": 8274,
+                        "timing": 90
+                    }
+                ],
+                "extraData": "",
+                "description": "技能2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8430,
+                        "y": 7134,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8430,
+                        "y": 7134,
+                        "timing": 88
+                    }
+                ],
+                "extraData": "",
+                "description": "技能3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 52,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9047,
+                        "y": 6417,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9047,
+                        "y": 6417,
+                        "timing": 112
+                    }
+                ],
+                "extraData": "",
+                "description": "技能4",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 53,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9737,
+                        "y": 6298,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9737,
+                        "y": 6298,
+                        "timing": 96
+                    }
+                ],
+                "extraData": "",
+                "description": "技能5",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 32,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9669,
+                        "y": 9391,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9669,
+                        "y": 9391,
+                        "timing": 88
+                    }
+                ],
+                "extraData": "",
+                "description": "跳跃",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 9,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9670,
+                        "y": 7416,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9670,
+                        "y": 7416,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9670,
+                        "y": 7416,
+                        "timing": 68
+                    }
+                ],
+                "extraData": "",
+                "description": "快速选定目标",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 90,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6517,
+                        "y": 8558,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6517,
+                        "y": 8558,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6506,
+                        "y": 8568,
+                        "timing": 28
+                    },
+                    {
+                        "x": 6500,
+                        "y": 8578,
+                        "timing": 56
+                    },
+                    {
+                        "x": 6500,
+                        "y": 8578,
+                        "timing": 91
+                    }
+                ],
+                "extraData": "",
+                "description": "自动战斗",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDrag",
+            "data": {
+                "key": 18,
+                "origin": {
+                    "x": 5345,
+                    "y": 4381
+                },
+                "sensitivity": 4,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseTrigger",
+            "data": {
+                "point": {
+                    "x": 9045,
+                    "y": 8293
+                },
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 66,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9035,
+                        "y": 3963,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9035,
+                        "y": 3963,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9035,
+                        "y": 3963,
+                        "timing": 57
+                    }
+                ],
+                "extraData": "",
+                "description": "背包",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 54,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6518,
+                        "y": 9577,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6518,
+                        "y": 9577,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6518,
+                        "y": 9577,
+                        "timing": 67
+                    }
+                ],
+                "extraData": "",
+                "description": "药水",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 71,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6204,
+                        "y": 4361,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6204,
+                        "y": 4361,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6204,
+                        "y": 4361,
+                        "timing": 59
+                    }
+                ],
+                "extraData": "",
+                "description": "事件触发",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 77,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9249,
+                        "y": 1086,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9249,
+                        "y": 1086,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9249,
+                        "y": 1086,
+                        "timing": 72
+                    }
+                ],
+                "extraData": "",
+                "description": "地图",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 2,
+                "secondKey": 0,
+                "origin": {
+                    "x": 5375,
+                    "y": 3232
+                },
+                "macros": "size 1920 1080\rondown\rswitch-mouse\ronup\rswitch-mouse",
+                "description": "滑动视角",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 17,
+                "secondKey": 70,
+                "curve": [
+                    {
+                        "x": 1550,
+                        "y": 2278,
+                        "timing": 0
+                    },
+                    {
+                        "x": 1550,
+                        "y": 2278,
+                        "timing": 89
+                    }
+                ],
+                "extraData": "",
+                "description": "快速点击任务",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 155,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 1436,
+                        "y": 8339,
+                        "timing": 0
+                    },
+                    {
+                        "x": 1436,
+                        "y": 8339,
+                        "timing": 64
+                    }
+                ],
+                "extraData": "",
+                "description": "骑乘",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 49,
+                "curve": [
+                    {
+                        "x": 434,
+                        "y": 2193,
+                        "timing": 0
+                    },
+                    {
+                        "x": 434,
+                        "y": 2193,
+                        "timing": 66
+                    }
+                ],
+                "extraData": "",
+                "description": "选定队友1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 50,
+                "curve": [
+                    {
+                        "x": 415,
+                        "y": 2845,
+                        "timing": 0
+                    },
+                    {
+                        "x": 415,
+                        "y": 2845,
+                        "timing": 63
+                    }
+                ],
+                "extraData": "",
+                "description": "选定队友2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 51,
+                "curve": [
+                    {
+                        "x": 422,
+                        "y": 3540,
+                        "timing": 0
+                    },
+                    {
+                        "x": 422,
+                        "y": 3540,
+                        "timing": 63
+                    }
+                ],
+                "extraData": "",
+                "description": "选定队友3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 52,
+                "curve": [
+                    {
+                        "x": 415,
+                        "y": 4235,
+                        "timing": 0
+                    },
+                    {
+                        "x": 415,
+                        "y": 4235,
+                        "timing": 113
+                    }
+                ],
+                "extraData": "",
+                "description": "选定队友4",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 76,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 49,
+                        "y": 2530,
+                        "timing": 0
+                    },
+                    {
+                        "x": 49,
+                        "y": 2530,
+                        "timing": 71
+                    }
+                ],
+                "extraData": "",
+                "description": "任务",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 84,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 12,
+                        "y": 3909,
+                        "timing": 0
+                    },
+                    {
+                        "x": 12,
+                        "y": 3909,
+                        "timing": 72
+                    }
+                ],
+                "extraData": "",
+                "description": "队伍",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.wok",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1600,
+            "height": 900
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

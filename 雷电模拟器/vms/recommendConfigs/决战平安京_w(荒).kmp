@@ -1,0 +1,284 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 65,
+                "curve": [
+                    {
+                        "x": 9203,
+                        "y": 8556,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9203,
+                        "y": 8556,
+                        "timing": 62
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 70,
+                "curve": [
+                    {
+                        "x": 6414,
+                        "y": 9014,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6414,
+                        "y": 9014,
+                        "timing": 50
+                    },
+                    {
+                        "x": 6414,
+                        "y": 9014,
+                        "timing": 76
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardPoint",
+            "data": {
+                "key": 66,
+                "point": {
+                    "x": 4172,
+                    "y": 8944
+                },
+                "type": 0,
+                "downDuration": 0,
+                "upDuration": 0,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7462,
+                    "y": 8343
+                },
+                "radius": 945,
+                "indicatorRadius": 1655,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 87,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7675,
+                    "y": 7116
+                },
+                "radius": 945,
+                "indicatorRadius": 2162,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 69,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 8400,
+                    "y": 5918
+                },
+                "radius": 945,
+                "indicatorRadius": 2162,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "curve": [
+                    {
+                        "x": 7024,
+                        "y": 7954,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7024,
+                        "y": 7954,
+                        "timing": 39
+                    },
+                    {
+                        "x": 7024,
+                        "y": 7954,
+                        "timing": 86
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "curve": [
+                    {
+                        "x": 7249,
+                        "y": 6447,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7249,
+                        "y": 6447,
+                        "timing": 97
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "curve": [
+                    {
+                        "x": 7984,
+                        "y": 5259,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7984,
+                        "y": 5259,
+                        "timing": 144
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 52,
+                "curve": [
+                    {
+                        "x": 8956,
+                        "y": 4930,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8956,
+                        "y": 4930,
+                        "timing": 103
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 20,
+                "origin": {
+                    "x": 348,
+                    "y": 4271
+                },
+                "macros": "size 1280 720\rondown\rtouch 39 317\rwait 250\ronup\rtouch 1242 47",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseMDisc",
+            "data": {
+                "key": 2,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 1286,
+                    "y": 7844
+                },
+                "radius": 590,
+                "indicatorRadius": 2162,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 9,
+                "origin": {
+                    "x": 9803,
+                    "y": 309
+                },
+                "macros": "size 1280 720\rondown\rtouch 1250 25\rwait 250\ronup\rtouch 1250 85",
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 68,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 5632,
+                    "y": 8942
+                },
+                "radius": 945,
+                "indicatorRadius": 2162,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 82,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 9191,
+                    "y": 5808
+                },
+                "radius": 945,
+                "indicatorRadius": 2162,
+                "description": ""
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 1,
+        "packageNamePattern": "com.netease.moba|com.netease.moba.*",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 8613,
+            "y": 2500
+        },
+        "cancelKey": 2,
+        "cursor": "lolCursor"
+    }
+}

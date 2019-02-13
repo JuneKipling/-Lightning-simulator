@@ -1,0 +1,327 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 69,
+                "curve": [
+                    {
+                        "x": 9055,
+                        "y": 8556,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9055,
+                        "y": 8556,
+                        "timing": 72
+                    }
+                ],
+                "description": "加速/抢断",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1465,
+                    "y": 7063
+                },
+                "radius": 254,
+                "leftKey": 37,
+                "upKey": 38,
+                "rightKey": 39,
+                "downKey": 40,
+                "description": "方向",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 65,
+                "curve": [
+                    {
+                        "x": 7594,
+                        "y": 8750,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7594,
+                        "y": 8750,
+                        "timing": 64
+                    }
+                ],
+                "description": "传球/切换",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 83,
+                "curve": [
+                    {
+                        "x": 7961,
+                        "y": 6569,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7961,
+                        "y": 6569,
+                        "timing": 87
+                    }
+                ],
+                "description": "直塞/协防",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 68,
+                "curve": [
+                    {
+                        "x": 9328,
+                        "y": 5944,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9328,
+                        "y": 5944,
+                        "timing": 83
+                    }
+                ],
+                "description": "射门/掷球",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 221,
+                "curve": [
+                    {
+                        "x": 9744,
+                        "y": 9033,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9744,
+                        "y": 9033,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9744,
+                        "y": 9033,
+                        "timing": 57
+                    }
+                ],
+                "description": "右偏",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 219,
+                "curve": [
+                    {
+                        "x": 256,
+                        "y": 9033,
+                        "timing": 0
+                    },
+                    {
+                        "x": 244,
+                        "y": 9033,
+                        "timing": 64
+                    },
+                    {
+                        "x": 219,
+                        "y": 9033,
+                        "timing": 89
+                    },
+                    {
+                        "x": 219,
+                        "y": 9033,
+                        "timing": 89
+                    }
+                ],
+                "description": "左偏 ",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 90,
+                "origin": {
+                    "x": 4648,
+                    "y": 6375
+                },
+                "macros": "type=FIFA-left\rsize 1280 720\rtouch 650 520",
+                "description": "左滑（点球、任意球）",
+                "moreDescription": "按下按键时间长短决定力量，2 秒完全蓄满力",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 88,
+                "origin": {
+                    "x": 5070,
+                    "y": 7139
+                },
+                "macros": "type=FIFA-middle\rsize 1280 720\rtouch 650 520",
+                "description": "左滑（点球、任意球）",
+                "moreDescription": "按下按键时间长短决定力量，2 秒完全蓄满力",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 67,
+                "origin": {
+                    "x": 5445,
+                    "y": 6333
+                },
+                "macros": "type=FIFA-right\rsize 1280 720\rtouch 650 520",
+                "description": "左滑（点球、任意球）",
+                "moreDescription": "按下按键时间长短决定力量，2 秒完全蓄满力",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 81,
+                "origin": {
+                    "x": 7586,
+                    "y": 7944
+                },
+                "macros": "size 1280 720\rondown \rpress 1000 600 1000 500\ronup\rrelease",
+                "description": "高球传中（传球键上划）",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 87,
+                "origin": {
+                    "x": 7977,
+                    "y": 5736
+                },
+                "macros": "size 1280 720\rondown \rpress 1040 450 1040 350\ronup\rrelease",
+                "description": "高球直塞（直塞键上划）",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 82,
+                "origin": {
+                    "x": 9063,
+                    "y": 7750
+                },
+                "macros": "size 1280 720\rondown \rpress 1200 600 1200 500\ronup\rrelease",
+                "description": "高级花式（冲刺键上划）",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.fifamobile",
+        "resolutionType": 0,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 1
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

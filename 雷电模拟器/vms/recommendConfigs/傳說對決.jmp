@@ -1,0 +1,304 @@
+{
+    "joystickConfig": {
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 9063,
+            "y": 2653
+        }
+    },
+    "joystickMappings": [
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 266,
+                    "secondKey": 0
+                },
+                "type": 0,
+                "origin": {
+                    "x": 1203,
+                    "y": 7917
+                },
+                "radius": 676,
+                "description": "行走"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 257,
+                    "secondKey": 260
+                },
+                "point": {
+                    "x": 7609,
+                    "y": 5778
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "學習技能2"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 257,
+                    "secondKey": 262
+                },
+                "point": {
+                    "x": 6945,
+                    "y": 7764
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "學習技能1"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 257,
+                    "secondKey": 263
+                },
+                "point": {
+                    "x": 8617,
+                    "y": 4792
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "學習技能3"
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 260,
+                    "secondKey": 267
+                },
+                "type": 0,
+                "origin": {
+                    "x": 8070,
+                    "y": 6917
+                },
+                "radius": 1000,
+                "description": "技能2"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 261,
+                    "secondKey": 258
+                },
+                "point": {
+                    "x": 1055,
+                    "y": 3736
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "購買物品1"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 261,
+                    "secondKey": 259
+                },
+                "point": {
+                    "x": 1047,
+                    "y": 4833
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "購買物品2"
+            }
+        },
+        {
+            "class": "ClassJoystickMacros",
+            "data": {
+                "key": {
+                    "firstKey": 268,
+                    "secondKey": 0
+                },
+                "origin": {
+                    "x": 9313,
+                    "y": 963
+                },
+                "macros": "size 1280 720\rondown\rtouch 1195 28\ronup\rtouch 1235 30\r",
+                "description": "對陣屬性"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 259,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 5820,
+                    "y": 8958
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "恢復"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 269,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 5063,
+                    "y": 8944
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "回城"
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 258,
+                    "secondKey": 266
+                },
+                "type": 0,
+                "origin": {
+                    "x": 6586,
+                    "y": 8972
+                },
+                "radius": 1000,
+                "description": "挑戰者技能"
+            }
+        },
+        {
+            "class": "ClassJoystickMacros",
+            "data": {
+                "key": {
+                    "firstKey": 270,
+                    "secondKey": 0
+                },
+                "origin": {
+                    "x": 1984,
+                    "y": 3069
+                },
+                "macros": "size 1280 720\rondown\rtouch 253 220\ronup\rtouch 573 528\r",
+                "description": "地圖"
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 262,
+                    "secondKey": 267
+                },
+                "type": 0,
+                "origin": {
+                    "x": 7463,
+                    "y": 8789
+                },
+                "radius": 1000,
+                "description": "技能1"
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 263,
+                    "secondKey": 267
+                },
+                "type": 0,
+                "origin": {
+                    "x": 9119,
+                    "y": 5844
+                },
+                "radius": 1000,
+                "description": "技能3"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 256,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9180,
+                    "y": 8611
+                },
+                "type": 1,
+                "downDuration": 82,
+                "upDuration": 82,
+                "description": "普通攻擊"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 261,
+                    "secondKey": 256
+                },
+                "point": {
+                    "x": 8281,
+                    "y": 9069
+                },
+                "type": 1,
+                "downDuration": 83,
+                "upDuration": 83,
+                "description": "補兵"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 261,
+                    "secondKey": 257
+                },
+                "point": {
+                    "x": 9578,
+                    "y": 7083
+                },
+                "type": 1,
+                "downDuration": 83,
+                "upDuration": 83,
+                "description": "推塔"
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.garena.game.kgtw",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 2
+    }
+}

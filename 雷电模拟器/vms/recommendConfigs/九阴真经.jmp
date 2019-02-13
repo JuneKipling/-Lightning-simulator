@@ -1,0 +1,188 @@
+{
+    "configInfo": {
+        "uniqueName": "九阴真经",
+        "packageNameType": 1,
+        "packageNamePattern": "com.snailgame.jyzjyd..*",
+        "resolutionType": 2,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "joystickConfig": {
+        "discType": 1,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "joystickMappings": [
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 256,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9133,
+                    "y": 7236
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "普攻"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 258,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8039,
+                    "y": 6847
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能2"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 259,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8656,
+                    "y": 5667
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能3"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 257,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9539,
+                    "y": 5639
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能4"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 263,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8086,
+                    "y": 8292
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 262,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 7719,
+                    "y": 5417
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "换武学"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 260,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 7125,
+                    "y": 5347
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "换目标"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 261,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 7070,
+                    "y": 8417
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能1"
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 266,
+                    "secondKey": 0
+                },
+                "type": 0,
+                "origin": {
+                    "x": 1203,
+                    "y": 7903
+                },
+                "radius": 816,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassJoystickDrag",
+            "data": {
+                "origin": {
+                    "x": 6133,
+                    "y": 3472
+                },
+                "sensitivity": 5,
+                "description": ""
+            }
+        }
+    ]
+}

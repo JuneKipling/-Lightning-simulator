@@ -1,0 +1,362 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 71,
+                "curve": [
+                    {
+                        "x": 9641,
+                        "y": 7095,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9641,
+                        "y": 7095,
+                        "timing": 80
+                    }
+                ],
+                "description": "推塔"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 65,
+                "curve": [
+                    {
+                        "x": 8515,
+                        "y": 9073,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8515,
+                        "y": 9073,
+                        "timing": 80
+                    }
+                ],
+                "description": "補兵"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 53,
+                "origin": {
+                    "x": 1816,
+                    "y": 5906
+                },
+                "macros": "size 2220 1080\rtouch 76 420 #打开商店\rwait 150\rtouch 1520 984 #选中第6个装备\rwait 100\rtouch 2037 822 #卖掉\rtouch 2150 45 #关闭\r",
+                "description": "出售裝備6"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 52,
+                "origin": {
+                    "x": 973,
+                    "y": 5895
+                },
+                "macros": "size 2220 1080\rtouch 76 420 #打开商店\rwait 100 #等待页面打开\rtouch 110 540 16#转到防御\rwait 150 #等待页面刷新\rtouch 1200 865 1200 765 1200 665 1200 -385 300 #滑动到底部\rwait 300 #等待滑动完成\rtouch 1337 349 32 #选中复活甲\rwait 100 #等待一小会\rtouch 2030 740 #预购\rwait 50\rtouch 2150 50 16 #关闭",
+                "description": "預購復活裝甲"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "curve": [
+                    {
+                        "x": 7352,
+                        "y": 7796,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7352,
+                        "y": 7796,
+                        "timing": 104
+                    }
+                ],
+                "description": "學習技能1"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "curve": [
+                    {
+                        "x": 7939,
+                        "y": 5817,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7939,
+                        "y": 5817,
+                        "timing": 128
+                    }
+                ],
+                "description": "學習技能2"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "curve": [
+                    {
+                        "x": 8801,
+                        "y": 4810,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8809,
+                        "y": 4810,
+                        "timing": 60
+                    },
+                    {
+                        "x": 8809,
+                        "y": 4810,
+                        "timing": 143
+                    }
+                ],
+                "description": "學習技能3"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 66,
+                "curve": [
+                    {
+                        "x": 5715,
+                        "y": 8993,
+                        "timing": 0
+                    },
+                    {
+                        "x": 5715,
+                        "y": 8993,
+                        "timing": 93
+                    }
+                ],
+                "description": "回城"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 20,
+                "origin": {
+                    "x": 9281,
+                    "y": 931
+                },
+                "macros": "size 2220 1080\rondown\rtouch 2097 44\ronup\rtouch 2150 45\r\r",
+                "description": "對陣屬性"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 13,
+                "origin": {
+                    "x": 9608,
+                    "y": 3777
+                },
+                "macros": "size 2220 1080\rtouch 2158 409\rwait 300\rtouch 2028 768\r",
+                "description": "聊天"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 32,
+                "origin": {
+                    "x": 9244,
+                    "y": 8547
+                },
+                "macros": "size 2220 1080\rtouch 2056 926 80",
+                "description": "普通攻擊"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 90,
+                "origin": {
+                    "x": 1088,
+                    "y": 1750
+                },
+                "macros": "type=history-map",
+                "description": "查看地圖"
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 81,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7809,
+                    "y": 8804
+                },
+                "radius": 818,
+                "indicatorRadius": 555,
+                "description": "技能1"
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 69,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 9239,
+                    "y": 5844
+                },
+                "radius": 818,
+                "indicatorRadius": 555,
+                "description": "技能3"
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 70,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 7047,
+                    "y": 8960
+                },
+                "radius": 818,
+                "indicatorRadius": 823,
+                "description": "挑戰者技能"
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 68,
+                "curve": [
+                    {
+                        "x": 6406,
+                        "y": 8993,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6406,
+                        "y": 8993,
+                        "timing": 9
+                    },
+                    {
+                        "x": 6406,
+                        "y": 8993,
+                        "timing": 123
+                    }
+                ],
+                "description": "恢復"
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 87,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 8331,
+                    "y": 6916
+                },
+                "radius": 818,
+                "indicatorRadius": 555,
+                "description": "技能2"
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 9,
+                "origin": {
+                    "x": 359,
+                    "y": 3893
+                },
+                "macros": "size 2220 1080\rondown\rtouch 76 420\ronup\rtouch 2150 45",
+                "description": "查看商店"
+            }
+        },
+        {
+            "class": "ClassMouseMDisc",
+            "data": {
+                "key": 2,
+                "type": 0,
+                "castMode": 1,
+                "origin": {
+                    "x": 1055,
+                    "y": 7911
+                },
+                "radius": 760,
+                "indicatorRadius": 2162,
+                "description": "滑鼠右擊移動"
+            }
+        },
+        {
+            "class": "ClassKeyboardWidget",
+            "data": {
+                "key": 136,
+                "center": {
+                    "x": 7383,
+                    "y": 4146
+                },
+                "size": {
+                    "x": 1350,
+                    "y": 694
+                },
+                "simpleText": "按Tab或滑鼠中鍵中止技能",
+                "resourceFile": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 83,
+                "origin": {
+                    "x": 1735,
+                    "y": 7907
+                },
+                "macros": "type=stop",
+                "description": "停止移動"
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.garena.game.kgtw",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 2220,
+            "height": 1080
+        },
+        "priority": 1
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 9200,
+            "y": 2653
+        },
+        "cancelKey": 2,
+        "cursor": "lolCursor"
+    }
+}

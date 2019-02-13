@@ -1,0 +1,177 @@
+{
+    "joystickMappings": [
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 266,
+                    "secondKey": 0
+                },
+                "type": 0,
+                "origin": {
+                    "x": 1117,
+                    "y": 8292
+                },
+                "radius": 820,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 258,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8094,
+                    "y": 9125
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能1"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 256,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9234,
+                    "y": 8431
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "攻击"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 259,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8133,
+                    "y": 7653
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能2"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 257,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8734,
+                    "y": 6681
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能3"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 261,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9555,
+                    "y": 6708
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能4"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 263,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9555,
+                    "y": 5208
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "技能5"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 260,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 805,
+                    "y": 4250
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "任务"
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 268,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9547,
+                    "y": 3167
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": "自动"
+            }
+        }
+    ],
+    "joystickConfig": {
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        }
+    },
+    "configInfo": {
+        "uniqueName": "不良人2",
+        "packageNameType": 1,
+        "packageNamePattern": "com.yunchang.buliangren.*",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    }
+}

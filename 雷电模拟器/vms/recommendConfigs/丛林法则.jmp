@@ -1,0 +1,85 @@
+{
+    "joystickMappings": [
+        {
+            "class": "ClassJoystickDrag",
+            "data": {
+                "origin": {
+                    "x": 7393,
+                    "y": 2866
+                },
+                "sensitivity": 5,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassJoystickDisc",
+            "data": {
+                "key": {
+                    "firstKey": 266,
+                    "secondKey": 0
+                },
+                "type": 0,
+                "origin": {
+                    "x": 1840,
+                    "y": 7559
+                },
+                "radius": 614,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 256,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 8683,
+                    "y": 7451
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassJoystickPoint",
+            "data": {
+                "key": {
+                    "firstKey": 257,
+                    "secondKey": 0
+                },
+                "point": {
+                    "x": 9705,
+                    "y": 3755
+                },
+                "type": 0,
+                "downDuration": 100,
+                "upDuration": 100,
+                "description": ""
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.fancywing.s3",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "joystickConfig": {
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        }
+    }
+}

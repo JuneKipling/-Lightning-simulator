@@ -1,0 +1,283 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1222,
+                    "y": 8064
+                },
+                "radius": 668,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 69,
+                "curve": [
+                    {
+                        "x": 9731,
+                        "y": 7698,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9731,
+                        "y": 7698,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "curve": [
+                    {
+                        "x": 8018,
+                        "y": 9356,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8018,
+                        "y": 9356,
+                        "timing": 95
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "curve": [
+                    {
+                        "x": 8047,
+                        "y": 7947,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8047,
+                        "y": 7962,
+                        "timing": 8
+                    },
+                    {
+                        "x": 8047,
+                        "y": 7977,
+                        "timing": 21
+                    },
+                    {
+                        "x": 8047,
+                        "y": 7992,
+                        "timing": 24
+                    },
+                    {
+                        "x": 8047,
+                        "y": 8022,
+                        "timing": 37
+                    },
+                    {
+                        "x": 8047,
+                        "y": 8037,
+                        "timing": 48
+                    },
+                    {
+                        "x": 8047,
+                        "y": 8052,
+                        "timing": 64
+                    },
+                    {
+                        "x": 8047,
+                        "y": 8067,
+                        "timing": 72
+                    },
+                    {
+                        "x": 8047,
+                        "y": 8067,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 51,
+                "curve": [
+                    {
+                        "x": 8357,
+                        "y": 6975,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8357,
+                        "y": 6975,
+                        "timing": 120
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 52,
+                "curve": [
+                    {
+                        "x": 8982,
+                        "y": 6445,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8982,
+                        "y": 6445,
+                        "timing": 112
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 81,
+                "curve": [
+                    {
+                        "x": 8690,
+                        "y": 9462,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8690,
+                        "y": 9462,
+                        "timing": 112
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 2,
+                "curve": [
+                    {
+                        "x": 9093,
+                        "y": 8326,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9093,
+                        "y": 8326,
+                        "timing": 135
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 90,
+                "curve": [
+                    {
+                        "x": 6465,
+                        "y": 9312,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6465,
+                        "y": 9312,
+                        "timing": 72
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 82,
+                "curve": [
+                    {
+                        "x": 7287,
+                        "y": 9231,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7292,
+                        "y": 9241,
+                        "timing": 3
+                    },
+                    {
+                        "x": 7292,
+                        "y": 9262,
+                        "timing": 34
+                    },
+                    {
+                        "x": 7292,
+                        "y": 9262,
+                        "timing": 115
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 155,
+                "curve": [
+                    {
+                        "x": 6472,
+                        "y": 8600,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6472,
+                        "y": 8600,
+                        "timing": 72
+                    }
+                ],
+                "description": ""
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.hxgame",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1920,
+            "height": 1080
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

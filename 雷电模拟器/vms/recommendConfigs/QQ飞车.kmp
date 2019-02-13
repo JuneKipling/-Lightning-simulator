@@ -1,0 +1,379 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 16,
+                "curve": [
+                    {
+                        "x": 8727,
+                        "y": 7736,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8727,
+                        "y": 7736,
+                        "timing": 112
+                    }
+                ],
+                "description": "漂移",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 38,
+                "curve": [
+                    {
+                        "x": 7669,
+                        "y": 6486,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7669,
+                        "y": 6486,
+                        "timing": 80
+                    }
+                ],
+                "description": "小喷",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 40,
+                "curve": [
+                    {
+                        "x": 7453,
+                        "y": 8542,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7453,
+                        "y": 8542,
+                        "timing": 101
+                    }
+                ],
+                "description": "刹车",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 17,
+                "curve": [
+                    {
+                        "x": 8492,
+                        "y": 5583,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8492,
+                        "y": 5583,
+                        "timing": 104
+                    }
+                ],
+                "description": "道具1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 90,
+                "curve": [
+                    {
+                        "x": 9391,
+                        "y": 5625,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9391,
+                        "y": 5625,
+                        "timing": 97
+                    }
+                ],
+                "description": "道具2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 82,
+                "curve": [
+                    {
+                        "x": 6443,
+                        "y": 4475,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6443,
+                        "y": 4475,
+                        "timing": 96
+                    }
+                ],
+                "description": "邂逅技能",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 88,
+                "curve": [
+                    {
+                        "x": 7431,
+                        "y": 6486,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7431,
+                        "y": 6486,
+                        "timing": 67
+                    }
+                ],
+                "description": "起步喷",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 37,
+                "curve": [
+                    {
+                        "x": 1035,
+                        "y": 7808,
+                        "timing": 0
+                    },
+                    {
+                        "x": 1035,
+                        "y": 7808,
+                        "timing": 111
+                    }
+                ],
+                "description": "方向左",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 39,
+                "curve": [
+                    {
+                        "x": 2071,
+                        "y": 7788,
+                        "timing": 0
+                    },
+                    {
+                        "x": 2071,
+                        "y": 7788,
+                        "timing": 96
+                    }
+                ],
+                "description": "方向右",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 49,
+                "origin": {
+                    "x": 7962,
+                    "y": 4111
+                },
+                "macros": "size 1920 1080\rtouch 1630 590 1630 540 1630 490 1630 440",
+                "description": "道具1→队友1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 52,
+                "origin": {
+                    "x": 9756,
+                    "y": 4046
+                },
+                "macros": "size 1920 1080\rtouch 1800 590 1800 540 1800 490 1800 440",
+                "description": "道具2→队友2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 50,
+                "origin": {
+                    "x": 7974,
+                    "y": 4902
+                },
+                "macros": "size 1920 1080\rtouch 1630 590 1690 540 1740 490 1800 440",
+                "description": "道具1→队友2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 51,
+                "origin": {
+                    "x": 9756,
+                    "y": 4859
+                },
+                "macros": "size 1920 1080\rtouch 1800 590 1740 540 1690 490 1630 440",
+                "description": "道具2→队友1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 65,
+                "curve": [
+                    {
+                        "x": 8505,
+                        "y": 4089,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8505,
+                        "y": 4089,
+                        "timing": 87
+                    }
+                ],
+                "description": "超能道具1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 83,
+                "curve": [
+                    {
+                        "x": 9359,
+                        "y": 4056,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9359,
+                        "y": 4056,
+                        "timing": 80
+                    }
+                ],
+                "description": "超能道具2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.tmgp.speedmobile",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

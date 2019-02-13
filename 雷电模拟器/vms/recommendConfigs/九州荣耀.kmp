@@ -1,0 +1,181 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1646,
+                    "y": 7880
+                },
+                "radius": 671,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 74,
+                "curve": [
+                    {
+                        "x": 9157,
+                        "y": 8389,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9157,
+                        "y": 8389,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 75,
+                "curve": [
+                    {
+                        "x": 8205,
+                        "y": 9235,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8205,
+                        "y": 9235,
+                        "timing": 68
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 76,
+                "curve": [
+                    {
+                        "x": 8182,
+                        "y": 7768,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8182,
+                        "y": 7768,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 73,
+                "curve": [
+                    {
+                        "x": 8813,
+                        "y": 6687,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8813,
+                        "y": 6687,
+                        "timing": 78
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 79,
+                "curve": [
+                    {
+                        "x": 9627,
+                        "y": 6697,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9627,
+                        "y": 6697,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 70,
+                "curve": [
+                    {
+                        "x": 631,
+                        "y": 3058,
+                        "timing": 0
+                    },
+                    {
+                        "x": 631,
+                        "y": 3058,
+                        "timing": 68
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 81,
+                "curve": [
+                    {
+                        "x": 7425,
+                        "y": 3660,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7425,
+                        "y": 3660,
+                        "timing": 64
+                    }
+                ],
+                "description": ""
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.zqgame.jzrysy.aligames",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1920,
+            "height": 1080
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

@@ -1,0 +1,429 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 71,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 1558,
+                        "y": 2418,
+                        "timing": 0
+                    },
+                    {
+                        "x": 1558,
+                        "y": 2418,
+                        "timing": 80
+                    }
+                ],
+                "extraData": "",
+                "description": "任务",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 192,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9431,
+                        "y": 623,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9431,
+                        "y": 623,
+                        "timing": 96
+                    }
+                ],
+                "extraData": "",
+                "description": "跳过",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 82,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7870,
+                        "y": 5898,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7870,
+                        "y": 5898,
+                        "timing": 79
+                    }
+                ],
+                "extraData": "",
+                "description": "怒气技",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 16,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7588,
+                        "y": 9267,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7588,
+                        "y": 9267,
+                        "timing": 72
+                    }
+                ],
+                "extraData": "",
+                "description": "闪避",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 70,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 6633,
+                        "y": 6744,
+                        "timing": 0
+                    },
+                    {
+                        "x": 6633,
+                        "y": 6744,
+                        "timing": 63
+                    }
+                ],
+                "extraData": "",
+                "description": "对话",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 9,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 8615,
+                        "y": 4994,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8615,
+                        "y": 4994,
+                        "timing": 87
+                    }
+                ],
+                "extraData": "",
+                "description": "选定目标",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 53,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 7371,
+                        "y": 6718,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7371,
+                        "y": 6718,
+                        "timing": 152
+                    }
+                ],
+                "extraData": "",
+                "description": "药品",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 69,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "origin": {
+                    "x": 9491,
+                    "y": 4689
+                },
+                "radius": 945,
+                "indicatorRadius": 2123,
+                "description": "必杀技",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 572,
+                    "y": 452
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardMacros",
+            "data": {
+                "key": 32,
+                "secondKey": 0,
+                "origin": {
+                    "x": 8188,
+                    "y": 4429
+                },
+                "macros": "type=cancel",
+                "description": "取消技能",
+                "moreDescription": "",
+                "extraData": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 65,
+                "secondKey": 0,
+                "curve": [
+                    {
+                        "x": 9346,
+                        "y": 8362,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9352,
+                        "y": 8362,
+                        "timing": 71
+                    },
+                    {
+                        "x": 9352,
+                        "y": 8362,
+                        "timing": 86
+                    }
+                ],
+                "extraData": "",
+                "description": "普通攻击",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 49,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "origin": {
+                    "x": 8417,
+                    "y": 9175
+                },
+                "radius": 946,
+                "indicatorRadius": 2162,
+                "description": "技能1",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 50,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "origin": {
+                    "x": 8322,
+                    "y": 7808
+                },
+                "radius": 946,
+                "indicatorRadius": 2162,
+                "description": "技能2",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 51,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "origin": {
+                    "x": 8760,
+                    "y": 6599
+                },
+                "radius": 946,
+                "indicatorRadius": 2162,
+                "description": "技能3",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDisc",
+            "data": {
+                "key": 52,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "origin": {
+                    "x": 9561,
+                    "y": 6429
+                },
+                "radius": 946,
+                "indicatorRadius": 2162,
+                "description": "技能4",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseDrag",
+            "data": {
+                "key": 18,
+                "mode": 0,
+                "origin": {
+                    "x": 5461,
+                    "y": 4904
+                },
+                "sensitivity": 6,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "class": "ClassMouseMDisc",
+            "data": {
+                "key": 2,
+                "type": 0,
+                "castMode": 1,
+                "waitRelease": true,
+                "noDirection": false,
+                "origin": {
+                    "x": 1424,
+                    "y": 8158
+                },
+                "radius": 572,
+                "indicatorRadius": 2162,
+                "description": "",
+                "moreDescription": "",
+                "hintVisible": true,
+                "hintOffset": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 0,
+        "packageNamePattern": "com.tencent.shihun.android",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1600,
+            "height": 900
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 8188,
+            "y": 4429
+        },
+        "cancelKey": 0,
+        "cursor": "lolCursor"
+    }
+}

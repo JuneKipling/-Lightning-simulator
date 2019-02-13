@@ -1,0 +1,241 @@
+{
+    "keyboardMappings": [
+        {
+            "class": "ClassMouseTrigger",
+            "data": {
+                "point": {
+                    "x": 8430,
+                    "y": 7319
+                },
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardDisc",
+            "data": {
+                "type": 0,
+                "origin": {
+                    "x": 1617,
+                    "y": 7306
+                },
+                "radius": 672,
+                "leftKey": 65,
+                "upKey": 87,
+                "rightKey": 68,
+                "downKey": 83,
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 49,
+                "curve": [
+                    {
+                        "x": 9609,
+                        "y": 1736,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9609,
+                        "y": 1736,
+                        "timing": 72
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 50,
+                "curve": [
+                    {
+                        "x": 9586,
+                        "y": 3056,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9586,
+                        "y": 3056,
+                        "timing": 73
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 9,
+                "curve": [
+                    {
+                        "x": 8570,
+                        "y": 9208,
+                        "timing": 0
+                    },
+                    {
+                        "x": 8578,
+                        "y": 9208,
+                        "timing": 53
+                    },
+                    {
+                        "x": 8578,
+                        "y": 9208,
+                        "timing": 84
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 32,
+                "curve": [
+                    {
+                        "x": 9539,
+                        "y": 9139,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9539,
+                        "y": 9139,
+                        "timing": 72
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 82,
+                "curve": [
+                    {
+                        "x": 7719,
+                        "y": 9333,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7719,
+                        "y": 9333,
+                        "timing": 88
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 17,
+                "curve": [
+                    {
+                        "x": 438,
+                        "y": 9167,
+                        "timing": 0
+                    },
+                    {
+                        "x": 438,
+                        "y": 9167,
+                        "timing": 78
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 81,
+                "curve": [
+                    {
+                        "x": 9594,
+                        "y": 5986,
+                        "timing": 0
+                    },
+                    {
+                        "x": 9594,
+                        "y": 5986,
+                        "timing": 96
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassMouseDrag",
+            "data": {
+                "origin": {
+                    "x": 5000,
+                    "y": 5028
+                },
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardCurve",
+            "data": {
+                "key": 70,
+                "curve": [
+                    {
+                        "x": 7688,
+                        "y": 3708,
+                        "timing": 0
+                    },
+                    {
+                        "x": 7688,
+                        "y": 3708,
+                        "timing": 81
+                    }
+                ],
+                "description": ""
+            }
+        },
+        {
+            "class": "ClassKeyboardWidget",
+            "data": {
+                "key": 136,
+                "center": {
+                    "x": 5020,
+                    "y": 3012
+                },
+                "size": {
+                    "x": 1325,
+                    "y": 588
+                },
+                "simpleText": "请在游戏内设置“三指”模式",
+                "resourceFile": ""
+            }
+        }
+    ],
+    "configInfo": {
+        "packageNameType": 1,
+        "packageNamePattern": "com.crisisfire.android.uc|com.crisisfire.android.guopan",
+        "resolutionType": 1,
+        "resolutionPattern": {
+            "width": 1280,
+            "height": 720
+        },
+        "priority": 0
+    },
+    "keyboardConfig": {
+        "mouseDiscType": 0,
+        "mouseCenter": {
+            "x": 5000,
+            "y": 5000
+        },
+        "mouseScrollType": 2,
+        "discType": 0,
+        "advertising": true,
+        "advertiseDuration": 5000,
+        "advertiseText": "",
+        "cancelPoint": {
+            "x": 0,
+            "y": 0
+        },
+        "cancelKey": 0,
+        "cursor": ""
+    }
+}
